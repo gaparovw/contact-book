@@ -1,0 +1,23 @@
+.sidebar {
+    background-color: #fff;
+    grid-column: 1fr;
+    grid-row: 2fr;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.inp {
+    height: 40px;
+    margin-top: 25px;
+    padding-left: 10px;
+}
+
+.btn-add {
+    margin-top: 25px;
+    height: 40px;
+    background-color: #242628;
+    color: #fff;
+    border: none;
+    font-size: 20px;
+}
